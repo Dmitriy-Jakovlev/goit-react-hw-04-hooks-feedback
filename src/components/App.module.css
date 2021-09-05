@@ -1,0 +1,33 @@
+section {
+  width: 700px;
+  margin: auto;
+}
+ul {
+  border: 2px solid teal;
+  box-shadow: 0px 0px 5px 0px;
+  list-style: none;
+  border-radius: 10px;
+}
+li {
+}
+button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100px;
+  height: 50px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 3px solid teal;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 0px;
+}
+button:hover {
+  background-color: teal;
+  border: none;
+  color: #fff;
+}
+
+button:not(:last-child) {
+  margin-right: 10px;
+}
