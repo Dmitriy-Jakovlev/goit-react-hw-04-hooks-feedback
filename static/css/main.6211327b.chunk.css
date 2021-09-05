@@ -1,0 +1,2 @@
+section{width:700px;margin:auto}ul{border:2px solid teal;box-shadow:0 0 5px 0;list-style:none;border-radius:10px}button{display:-webkit-inline-flex;display:inline-flex;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;align-items:center;min-width:100px;height:50px;cursor:pointer;background-color:transparent;border:3px solid teal;border-radius:10px;box-shadow:0 0 5px 0}button:hover{background-color:teal;border:none;color:#fff}button:not(:last-child){margin-right:10px}
+/*# sourceMappingURL=main.6211327b.chunk.css.map */
